@@ -23,7 +23,7 @@ def get_lanbide_data():
         [('2019', month_num, month_name) for month_num, month_name in
          list(zip(month_number_list[11:12], month_name_list[11:12]))] + \
         [('2020', month_num, month_name) for month_num, month_name in
-         list(zip(month_number_list[4:10], month_name_list[4:10]))]
+         list(zip(month_number_list[9:10], month_name_list[9:10]))]
 
     th_code = {'ara': '01', 'gip': '20', 'biz': '48'}
 
